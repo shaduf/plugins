@@ -1,3 +1,3 @@
 # plugins
-all plugins for IDA
-read information from current address
+ReadInformationInstruction plugins for IDA,
+It read information from current address. 
